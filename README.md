@@ -22,6 +22,7 @@ This sample includes:
 Getting Started
 ---------------
 
+hi,
 These directions assume you want to develop on your development environment or a Cloud9 environment.
 
 To work on the sample code, you'll need to clone your project's repository to your
